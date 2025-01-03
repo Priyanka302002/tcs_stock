@@ -24,7 +24,7 @@ The dataset contains the following columns:
 7. 💰 **Dividends**: Dividends paid on the stock.
 8. 🔄 **Stock Splits**: Number of stock splits.
 
-**📥 Download Dataset**: [https://drive.google.com/drive/folders/1rQSDEtgZJpkFs3XeUHDEX94jYSPwhhn4?usp=drive_link](#)
+**📥 Download Dataset**: [Click here to download the dataset](https://drive.google.com/drive/folders/1rQSDEtgZJpkFs3XeUHDEX94jYSPwhhn4?usp=drive_link)(#)
 
 ---
 
